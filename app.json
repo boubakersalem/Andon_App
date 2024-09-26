@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Andon",
+    "slug": "Andon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/c2ii.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/c2ii.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.andon_c2i.Andon"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2d625043-15d3-4eec-8c0a-15589ceedf60"
+      }
+    }
+  }
+}
